@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ericma12345.github.io/another_life_ericma/sitemap.xml

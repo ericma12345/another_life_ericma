@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ericma12345.github.io/another_life_ericma/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/</loc>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/bibliography.html</loc>
+<lastmod>2025-04-10T12:03:53-04:00</lastmod>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/critical-reading-assignment.html</loc>
+<lastmod>2025-04-10T12:03:09-04:00</lastmod>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/final-essay.html</loc>
+<lastmod>2025-04-10T12:04:15-04:00</lastmod>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/introduction.html</loc>
+<lastmod>2025-04-10T12:04:04-04:00</lastmod>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/music-review.html</loc>
+<lastmod>2025-04-10T12:03:16-04:00</lastmod>
+</url>
+<url>
+<loc>https://ericma12345.github.io/another_life_ericma/playlist-and-listening-guide.html</loc>
+<lastmod>2025-04-10T12:03:28-04:00</lastmod>
+</url>
+</urlset>
